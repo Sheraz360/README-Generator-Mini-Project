@@ -49,7 +49,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Video
 
+https://drive.google.com/file/d/1u_T5FVYDOBtCPGYOe4MbviHHTaQy6aa9/view?usp=sharing
+
 ## Example README
+
+https://github.com/Sheraz360/README-Generator-Mini-Project/blob/main/starter/README.md
 
 ## Questions
 If you have any questions or need further assistance regarding the Project Readme Generator, please feel free to reach out:
